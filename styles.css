@@ -5,9 +5,9 @@
 }
 
 :root {
-    --orange: #ff6b35;
-    --orange-light: #ff8c5a;
-    --orange-dark: #e55a2b;
+    --orange: rgb(217, 60, 154);
+    --orange-light: rgb(244, 118, 213);
+    --orange-dark: lightblue;
     --blue: #1e90ff;
     --blue-light: #4da6ff;
     --blue-dark: #0066cc;
